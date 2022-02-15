@@ -2,7 +2,6 @@
 content_type: page
 learning_resource_types: []
 title: Case Studies
-type: CourseSection
 uid: bf1d5614-3904-28fa-4114-ee613f799ea6
 ---
 

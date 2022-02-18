@@ -13,7 +13,7 @@ Kotler, Philip, and Kevin Keller. _Marketing Management_. 13th ed. Prentice Hall
 
 Best, Roger J. _Market-Based Management – Strategies for Growing Customer Value and Profitability_. 5th ed. Prentice Hall, 2009. ISBN: 9780132336536.
 
-In addition to the reading materials listed below, required [case studies]({{< baseurl >}}/pages/case-studies) are assigned throughout the semester and will be discussed in class.
+In addition to the reading materials listed below, required {{< resource_link bf1d5614-3904-28fa-4114-ee613f799ea6 "case studies" >}} are assigned throughout the semester and will be discussed in class.
 
 {{< tableopen >}}
 {{< theadopen >}}

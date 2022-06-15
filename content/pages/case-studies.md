@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This section contains the case assignments for the course and associated
+  discussion questions. '
 learning_resource_types: []
 ocw_type: CourseSection
 title: Case Studies

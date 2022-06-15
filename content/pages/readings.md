@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This section contains a list of assigned readings for the course, and
+  information on two optional textbook references for those interested in additional
+  background readings. '
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
